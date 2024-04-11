@@ -1,5 +1,8 @@
 # Towards-Data-Science-Articles-Approach
 
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Towards-Data-Science-Articles-Approach/main/image/pexels-george-milton-7034744.jpg)
+
+
 ## Introduction:
 
 "Towards Data Science" is a popular online publication that covers a wide range of topics related to data science, machine learning, artificial intelligence, and technology. The publication attracts a diverse audience of data professionals, researchers, students, and enthusiasts interested in staying updated with the latest trends and developments in the field.
